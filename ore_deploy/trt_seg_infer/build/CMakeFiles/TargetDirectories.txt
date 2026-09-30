@@ -1,0 +1,3 @@
+/home/sunweining/下载/trt_seg_infer/build/CMakeFiles/trt_seg_infer.dir
+/home/sunweining/下载/trt_seg_infer/build/CMakeFiles/edit_cache.dir
+/home/sunweining/下载/trt_seg_infer/build/CMakeFiles/rebuild_cache.dir

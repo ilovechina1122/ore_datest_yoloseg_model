@@ -1,0 +1,3 @@
+/home/sunweining/ore_deploy/ort_seg_demo/build/CMakeFiles/ort_seg_demo.dir
+/home/sunweining/ore_deploy/ort_seg_demo/build/CMakeFiles/edit_cache.dir
+/home/sunweining/ore_deploy/ort_seg_demo/build/CMakeFiles/rebuild_cache.dir
