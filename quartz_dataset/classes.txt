@@ -1,0 +1,6 @@
+
+  0: quartz
+  1: pyrite
+  2: malachite
+  3: bornite
+  4: basalt

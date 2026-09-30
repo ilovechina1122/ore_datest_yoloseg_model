@@ -1,0 +1,15 @@
+# 4类矿物数据集
+path: C:\Users\10650\Desktop\first-year-work\dataset001\quartz_dataset
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+names:
+  0: quartz
+  1: pyrite
+  2: malachite
+  3: bornite
+  4: basalt
+
+
